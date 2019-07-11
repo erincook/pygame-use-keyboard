@@ -1,1 +1,1 @@
-The following repo is a bunch of example pygames. 
+This repo is a single pygame example. 
